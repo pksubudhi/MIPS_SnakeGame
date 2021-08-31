@@ -1,4 +1,9 @@
 ########################################################################
+# Contact: P K Subudhi
+# mailtopksubudhi@gmail.com
+# WhatsApp: +91-8895174939
+# Website: www.pksubudhi.com
+
 # Tiny Snake Game
 #
 # Description: The player will play moving snake within 15x15 grid 
